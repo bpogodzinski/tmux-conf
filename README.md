@@ -15,4 +15,4 @@ My personal tmux configuration made to be quickly cloneable and set up.
 
 `cp -r .tmux/ .tmux.conf ~/.`
 
-4. Start tmux and install plugins by C-a + I (capital i)
+4. Start tmux and install plugins by C-a + I (capital i). It may take a while so be patient.
